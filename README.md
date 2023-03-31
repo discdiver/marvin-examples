@@ -4,4 +4,4 @@
 
 Run any of the example scripts.
 
-The output listed was from gpt-3.5-turbo
+The output listed at the end of each file was from gpt-3.5-turbo
